@@ -1,0 +1,5 @@
+torch>=1.9.0
+gymnasium[atari]>=0.28.0
+swanlab>=0.1.0
+numpy>=1.21.0
+ale-py>=0.7.0 
